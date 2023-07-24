@@ -1,0 +1,10 @@
+*.jpg
+
+toto.txt
+5_Exercices_En_Cours_Formation/exercice.txt
+
+env.php
+
+5_Exercices_En_Cours_Formation/*.*
+
+horribleFichier.txt
